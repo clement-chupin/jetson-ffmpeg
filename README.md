@@ -1,6 +1,9 @@
 # jetson-ffmpeg
 L4T Multimedia API for ffmpeg
 
+Modified version to adressing this issue :
+https://github.com/Keylost/jetson-ffmpeg/issues/16
+
 **1.build and install library**
 
     git clone https://github.com/Keylost/jetson-ffmpeg.git
